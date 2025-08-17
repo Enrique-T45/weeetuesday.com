@@ -21,6 +21,6 @@ If you spot anything off or have suggestions for improvement, I’d genuinely ap
 ## 💬 Contact
 
 Want to share feedback or just say hi? You can reach me through [instagram](https://www.instagram.com/weeetuesday/).
-i have created a couple of designs for online store as well if you would like to check those out please feel free[redbubble](https://www.redbubble.com/people/weetuesday/shop?asc=u).
+i have created a couple of designs for online store as well if you would like to check those out please feel free [redbubble](https://www.redbubble.com/people/weetuesday/shop?asc=u).
 
 Thanks for checking out weeetuesday!
