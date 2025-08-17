@@ -1,0 +1,117 @@
+
+
+/* title area */ 
+h1 {
+    text-align:center; 
+    background-color: rgba(0, 0, 0, 0.801); 
+    padding: 15px; 
+    color: rgba(255, 255, 255, 0.932); 
+    font-size: 30px;
+}
+  
+     
+ 
+
+body { 
+    background-color: rgb(35, 121, 179);
+    background-size: cover;
+} 
+/* intro praragraph */ 
+#intro-paragraph { 
+    font-size: 25px; 
+    text-align: center; 
+    color: rgb(255, 255, 255); 
+}
+
+
+/* article 1 styling */ 
+.article-1 { 
+    display: flex; 
+    flex-direction: column; 
+    align-items:center ; 
+    text-align: center; 
+    color: white;
+    padding: 5px; 
+    margin: 5px; 
+    font-size: 20px;
+}
+/* article 1 image */ 
+#blue-shirt-image { 
+    margin: 40px auto; 
+    display: block; 
+    max-width: 100%;
+    height: auto; 
+}
+
+
+/* start of article 2 styling*/ 
+.article-2 {
+    color: white; 
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start; 
+    padding: 5px; 
+    margin: 5px; 
+    font-size: 20px;
+}
+/* article 2 image */ 
+#shades-image { 
+    padding: 30px; 
+}
+
+
+/* article 3 styling */ 
+.article-3 {  
+    display: flex; 
+    flex-direction: column; 
+    padding: 5px; 
+    margin: 5px; 
+    text-align: center; 
+    font-size: 25px;
+    color: rgb(255, 255, 255); 
+}
+/* article 3 image */ 
+#mirror-selfie { 
+    padding: 30px; 
+    align-self: center; 
+}
+
+
+
+/* article 4 */ 
+.article-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; 
+    padding: 50px; 
+    margin: 50px;
+    text-align: center; 
+    font-size: 1.25em; 
+    color: rgb(255, 255, 255); 
+}
+/* article 4 image */ 
+#side-profile { 
+    margin: 20px 300px;
+    max-width: 100%;
+    height: auto; 
+
+}
+
+/* article 4 title styling */ 
+
+#article-4-title { 
+    color: rgb(255, 255, 255); 
+    margin: 20px;
+} 
+
+#article-4-paragraph { 
+    margin: 0 -100px;
+    padding: 10px;
+}
+
+
+img:hover {
+  transform: scale(1.25);
+  transition: transform 0.3s ease;
+}
+
