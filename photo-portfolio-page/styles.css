@@ -8,7 +8,19 @@ h1 {
     color: rgba(255, 255, 255, 0.932); 
     font-size: 30px;
 }
-  
+  /* nav */ 
+  nav,a { 
+    background-color: rgba(35, 121, 179, 0.08);
+    color: white;
+    text-align:center; 
+    letter-spacing: 5px; 
+    text-decoration: none;
+  }
+
+  a:hover { 
+    color: #ffffff;
+    text-decoration: underline; 
+  }
      
  
 
